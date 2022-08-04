@@ -1,0 +1,15 @@
+Feedback on Assignment 6
+Submitter: ntsmas016
+Marker: mtsmen001
+
+Correctness Marks [70 / 70]
+Comments at top of code (description, name, date) [8 / 10]
+Comments within code (for each function or non-obvious functional unit of code) [0 / 10]
+General readability, meaningful names, etc. [0 / 10]
+
+Total : [78]
+
+General Comments
+Note: This is your final mark.
+
+boxes.py had no comments what so ever, but the others did., also it was specified in the histogram question that You should use an array/list to store the counters.
